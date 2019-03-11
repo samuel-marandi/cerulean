@@ -1,1 +1,4 @@
-node_modules
+src/app/node_modules
+src/web/node_modules
+src/web/dist
+src/web/.cache
