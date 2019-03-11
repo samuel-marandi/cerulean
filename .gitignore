@@ -1,4 +1,5 @@
-src/app/node_modules
-src/web/node_modules
-src/web/dist
-src/web/.cache
+node_modules
+dist
+.cache
+web/dist
+web/.cache
